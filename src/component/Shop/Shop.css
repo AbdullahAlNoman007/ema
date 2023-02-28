@@ -1,0 +1,23 @@
+.shopping-box{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.product-container{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 45px;
+    padding: 82px;
+}
+.order{
+    background-color: #FF99004D;
+    
+}
+.Order-title{
+
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    padding: 72px 45px 0px 45px;
+    margin-bottom: 20px;
+}

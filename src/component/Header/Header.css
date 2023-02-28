@@ -1,0 +1,24 @@
+.nav{
+
+    background-color: #1C2B35;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 19px;
+}
+.nav a{
+
+    text-decoration: none;
+    color: white;
+    margin: 16px;
+    font-size: 17px;
+}
+.last-ref{
+
+    padding-right: 16px;
+}
+.nav img{
+
+    padding-left: 112px;
+}
